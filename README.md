@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-006400?style=for-the-badge)
+
 # Python School Projects
 
 Hi, and thank you for visiting my collection of simple Python school projects!  
