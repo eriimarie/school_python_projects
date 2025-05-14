@@ -41,6 +41,39 @@ This section contains project-based assignments focused on Q&A-style analysis, d
     - A line chart compares the number of titles per year for each country.
     - Uses matplotlib to build a clean, labeled visualization.
     - Simple but insightful way to analyze media trends across regions.
-12. 
-   
+12. [Project Assignment 4 - Boolean Logic and Loops](https://github.com/eriimarie/school_python_projects/blob/main/Project_assignment_4_boolean.ipynb)  
+    This project dives into **Boolean logic** and **looping** mechanics, including:
+    - Comparing logic between two Boolean expressions.
+    - Counting odd and even numbers from 2 to 25 and squaring them.
+    - Rewriting `for` loops as `while` loops for deeper understanding.
+    - Cleaning up code by removing unnecessary `break` and `continue` statements.
+    - A final user-input program that uses a `while` loop to continuously collect and sum user-entered values.
+13.[Project Assignment 5 - Math and Loops](https://github.com/eriimarie/school_python_projects/blob/main/Project_assignment_5_math.ipynb)  
+    This project focuses on **mathematical concepts** and **loop operations**, including:
+    - Printing and counting all three-digit numbers divisible by 17.
+    - Creating conditional logic to check divisibility without a remainder.
+    - Writing `for` loops to output specific letters like "A", "P", "I", "L".
+    - Looping through a string using `range()` and understanding string indexing.
+    - Exploring variable assignments and predicting loop outcomes.
+14.  [Project Final Assignment 6 - Data Visualization & World Happiness Analysis](https://github.com/eriimarie/school_python_projects/blob/main/Project_final_assignment_6_dv.ipynb)  
+    This final project explores the **World Happiness Report** dataset through a series of Python-based visualizations. The dataset includes variables like:
+    
+    - Country Name  
+    - Region  
+    - Ladder Score  
+    - Social Support  
+    - Healthy Life Expectancy  
+    - Log GDP per Capita  
+    - Freedom to Make Life Choices  
+    - Generosity  
+    - Perception of Corruption  
 
+    Visualizations created include:  
+    - **Heatmaps** for correlation analysis  
+    - **Scatter plots**, **line charts**, and **bar graphs**  
+    - **Seaborn pair plots** and **grids** to analyze patterns across countries  
+    - **Circle plots** to represent distribution of happiness scores  
+
+    The project showcases real-world data analysis and how visual storytelling can help us understand what makes a country "happy."
+   
+Thanks for stopping by and checking out my projects! If you’re a fan of Python, data analysis, or just want to see what I’m working on, feel free to follow along!
