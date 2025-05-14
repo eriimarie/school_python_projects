@@ -48,7 +48,7 @@ This section contains project-based assignments focused on Q&A-style analysis, d
     - Rewriting `for` loops as `while` loops for deeper understanding.
     - Cleaning up code by removing unnecessary `break` and `continue` statements.
     - A final user-input program that uses a `while` loop to continuously collect and sum user-entered values.
-13.[Project Assignment 5 - Math and Loops](https://github.com/eriimarie/school_python_projects/blob/main/Project_assignment_5_math.ipynb)  
+13. [Project Assignment 5 - Math and Loops](https://github.com/eriimarie/school_python_projects/blob/main/Project_assignment_5_math.ipynb)  
     This project focuses on **mathematical concepts** and **loop operations**, including:
     - Printing and counting all three-digit numbers divisible by 17.
     - Creating conditional logic to check divisibility without a remainder.
