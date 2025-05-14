@@ -12,8 +12,6 @@ Click below to explore the available programs:
 2. [Simple Price Calculator Program](https://github.com/eriimarie/school_python_projects/blob/main/SimplePriceCalculator.py)
 3. [Simple Neural Simulation Program](https://github.com/eriimarie/school_python_projects/blob/main/SimpleNeuralSim%20.ipynb)
 4. [Simple Temperature Calculator](https://github.com/eriimarie/school_python_projects/blob/main/SimpleTemperatureCalculator.py)
-5. [Simple  Scope Example Program ](https://github.com/eriimarie/school_python_projects/blob/main/FunctionScope.py)
+5. [Simple  Scope Example Program ](https://github.com/eriimarie/school_python_projects/blob/main/Simplescopeexample.py)
 6. [Simple Scope Test Program](https://github.com/eriimarie/school_python_projects/blob/main/SimpleScopeTest.py)
 7. 
-
-
