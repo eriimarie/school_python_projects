@@ -8,6 +8,7 @@ In this repository, you’ll find a variety of small, fun, and random programs I
 ## Project List
 Click below to explore the available programs:
 
-1. [Simple Q&A Python Program](https://github.com/eriimarie/school_python_projects/blob/main/SimpleQAProject.py)
+1. [Simple Q&A Program](https://github.com/eriimarie/school_python_projects/blob/main/SimpleQAProject.py)
+2. [Simple Price Calculator Program](https://github.com/eriimarie/school_python_projects/blob/main/SimplePriceCalculator.py)
 
 
