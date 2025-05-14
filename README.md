@@ -14,4 +14,18 @@ Click below to explore the available programs:
 4. [Simple Temperature Calculator](https://github.com/eriimarie/school_python_projects/blob/main/SimpleTemperatureCalculator.py)
 5. [Simple  Scope Example Program ](https://github.com/eriimarie/school_python_projects/blob/main/Simplescopeexample.py)
 6. [Simple Scope Test Program](https://github.com/eriimarie/school_python_projects/blob/main/SimpleScopeTest.py)
-7. 
+
+## Files for Download
+
+These Python files are part of a simple brain simulation project.  
+**Note:** The full brain simulation file is over 25GB, so it's recommended to download and run it locally.
+
+7. [Simple Brain Simulation - File 1: Half of the Brain](https://github.com/eriimarie/school_python_projects/blob/main/SimpleBrainSim_1.py)  
+8. [Simple Brain Simulation - File 2: Full Brain](https://github.com/eriimarie/school_python_projects/blob/main/SimpleBrainSim_2.py)
+
+# Machine Model and Projects
+
+9. 
+
+   
+
